@@ -1,0 +1,13 @@
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\bin\Debug\netcoreapp3.1\ReversiConsole.exe
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\bin\Debug\netcoreapp3.1\ReversiConsole.deps.json
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\bin\Debug\netcoreapp3.1\ReversiConsole.runtimeconfig.json
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\bin\Debug\netcoreapp3.1\ReversiConsole.runtimeconfig.dev.json
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\bin\Debug\netcoreapp3.1\ReversiConsole.dll
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\bin\Debug\netcoreapp3.1\ReversiConsole.pdb
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\obj\Debug\netcoreapp3.1\ReversiConsole.csprojAssemblyReference.cache
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\obj\Debug\netcoreapp3.1\ReversiConsole.AssemblyInfoInputs.cache
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\obj\Debug\netcoreapp3.1\ReversiConsole.AssemblyInfo.cs
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\obj\Debug\netcoreapp3.1\ReversiConsole.csproj.CoreCompileInputs.cache
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\obj\Debug\netcoreapp3.1\ReversiConsole.dll
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\obj\Debug\netcoreapp3.1\ReversiConsole.pdb
+D:\Github\tkpowell437\ReversiConsole\ReversiConsole\obj\Debug\netcoreapp3.1\ReversiConsole.genruntimeconfig.cache

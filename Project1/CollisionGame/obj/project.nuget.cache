@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKPSzIs2dK8FgF/iTsEm5l9voj4IIyssv28JKnsiDo3dQ+mbH7tFGZs2iajGVJGflI2kfLfscVeyCMyKCdWGmg==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\tkpowell437\\Project1\\CollisionGame\\CollisionGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

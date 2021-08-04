@@ -1,0 +1,14 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Models/p1_wedge.fbx","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Models/p1_wedge.xnb","ModelProcessor","ModelContent",430896,389644,0.9041148
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Models/space.jpg","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Models/space_0.xnb","TextureProcessor","Texture2DContent",243897,699189,2.67734
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Models/ssphere.fbx","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Models/ssphere.xnb","ModelProcessor","ModelContent",52956,25992,2.7203455
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Models/torus.fbm/striped3.jpg","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Models/torus.fbm/striped3_0.xnb","TextureProcessor","Texture2DContent",23812,174897,0.4535576
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Models/torus.fbx","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Models/torus.xnb","ModelProcessor","ModelContent",37852,81320,0.5245666
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/textFont.spritefont","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/textFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.3660465
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Textures/checkerboard.jpg","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Textures/checkerboard.xnb","TextureProcessor","Texture2DContent",39524,1048661,0.071509
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Textures/gold.jpg","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Textures/gold.xnb","TextureProcessor","Texture2DContent",4727,1048661,0.0620079
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Textures/orange.jpg","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Textures/orange.xnb","TextureProcessor","Texture2DContent",635,101,0.0030004
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Textures/space.jpg","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Textures/space.xnb","TextureProcessor","Texture2DContent",243897,4194389,0.2805356
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Textures/striped3.jpg","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Textures/striped3.xnb","TextureProcessor","Texture2DContent",25036,1048661,0.0810103
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/textures/wedge_p1_diff_v1.tga","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/textures/wedge_p1_diff_v1_0.xnb","TextureProcessor","Texture2DContent",207530,87525,0.2985379
+"D:/Github/tkpowell437/Project2/SpaceRace/Content/Textures/wedge_p1_diff_v1.tga","D:/Github/tkpowell437/Project2/SpaceRace/Content/bin/Windows/Textures/wedge_p1_diff_v1.xnb","TextureProcessor","Texture2DContent",207530,262229,0.023503

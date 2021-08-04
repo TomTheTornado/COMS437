@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Github/tkpowell437/Project1/CollisionGame/Content/collisionFont.spritefont","D:/Github/tkpowell437/Project1/CollisionGame/Content/bin/DesktopGL/Content/collisionFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.3930224
+"D:/Github/tkpowell437/Project1/CollisionGame/Content/player.png","D:/Github/tkpowell437/Project1/CollisionGame/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",4393,27261,0.0320018
+"D:/Github/tkpowell437/Project1/CollisionGame/Content/rainbowStrip.png","D:/Github/tkpowell437/Project1/CollisionGame/Content/bin/DesktopGL/Content/rainbowStrip.xnb","TextureProcessor","Texture2DContent",144,121,0.001
+"D:/Github/tkpowell437/Project1/CollisionGame/Content/target.png","D:/Github/tkpowell437/Project1/CollisionGame/Content/bin/DesktopGL/Content/target.xnb","TextureProcessor","Texture2DContent",6614,10489,0.0020002
