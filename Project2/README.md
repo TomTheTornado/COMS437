@@ -1,4 +1,4 @@
-# CollisionGame
+# Space Race Game
 
 Created by Thomas Powell
 
